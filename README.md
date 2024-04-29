@@ -1,3 +1,8 @@
+```
+python run_system.py --make --register --refine --integrate --device "cuda:0" --config config/test_scene.json 
+```
+
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/isl-org/Open3D/main/docs/_static/open3d_logo_horizontal.png" width="320" />
 </p>
